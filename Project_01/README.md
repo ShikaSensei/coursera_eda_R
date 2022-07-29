@@ -1,4 +1,4 @@
-[# Sourse](https://github.com/rdpeng/ExData_Plotting1)
+[Sourse](https://github.com/rdpeng/ExData_Plotting1)
 ## Introduction
 
 This assignment uses data from
